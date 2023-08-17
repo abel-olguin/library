@@ -1,0 +1,19 @@
+.idea
+.DS_Store
+vgit endor/
+php/src/.idea
+php/src/node_modules
+php/src/public/hot
+php/src/public/storage
+php/src/storage/*.key
+php/src/vendor
+php/src/.env
+php/src/.env.backup
+php/src/.phpunit.result.cache
+php/src/Homestead.json
+php/src/Homestead.yaml
+php/src/npm-debug.log
+php/src/yarn-error.log
+php/src/.idea
+php/src/.vscode
+php/src/composer.lock

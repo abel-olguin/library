@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer components {
+    .error {
+        @apply text-red-500 text-xs;
+    }
+}
+
+[x-cloak] {
+    display: none !important;
+}
+
